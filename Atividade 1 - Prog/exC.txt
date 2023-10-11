@@ -1,0 +1,18 @@
+Funções
+    Funções são partes independentes de um código. Elas servem para modularização, ou seja, dividir o código em pequenas partes, cada uma com suas funcionalidades. As funções podem ter parâmetros e retornar valores ou não, neste caso também chamadas de procedimentos.
+
+Argumentos/Parâmetros
+    Argumentos ou Parâmetros são valores que podem ser passados para as funções, de maneira que é possível generalizar o código usando um mesmo valor em diferentes funções. Os Argumentos podem ser passados tanto por valor, quanto por referência.
+
+Tipos de Funções
+    Os Tipos de Funções definem qual o tipo de valor será retornado pela função. Ou seja, uma função de tipo 'int' deve retornar um valor inteiro. Isso se vale para qualquer tipo de função.
+
+Void
+    Void é um tipo de função, entretanto, diferente dos outros tipos, ele mostra que a função não deve retornar valor nenhum. Ou seja, uma função 'void' não retorna nenhum valor. A função void também pode ser chamado de Procedimento.
+
+Tipos de Passagem de Parâmetro
+    Parâmetros podem ser passados por valor ou por referência. Por valor, o conteúdo da variável de origem não é mudado, mesmo que ele sofra algum tipo de alteração dentro da função, sendo a passagem padrão de C++. Já por referência, a função altera o valor da variável de origem, sendo usado o & para sinalizar a passagem por referência.
+
+Retorno de uma função
+    Os retornos de uma função dependem do tipo da função. O retorno de uma função pode ser feito por um valor ou por uma variável que condiza com o tipo da função. Vale ressaltar que a função retorna apenas um valor, sendo especificado pelos parênteses.
+
