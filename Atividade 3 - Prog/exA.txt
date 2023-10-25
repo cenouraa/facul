@@ -1,0 +1,26 @@
+ExA:
+
+1. Na linha 4, o valor impresso será 5, já que o valor apontado pelo ponteiro é o valor de i. Na linha 5, o valor impresso será o endereço de memória de i, que foi passado para a variável na linha 3.
+
+2. Cada saída será o endereço de memória da variável referenciada no comando de saída, já que todas elas estão sendo chamadas utilizando o caracter '&'.
+
+3. Na linha 6, o valor impresso será 55, já que é a variável 'valor' recebeu o valor apontado pelo endereço da variável 'p', que era o mesmo que o da variável 'num'. Na linha 7, o valor impresso será o endereço de memória da variável 'num'. E na linha 8, será 55, que é o valor apontado pela variável 'p', que tem o mesmo endereço de 'num', que tem valor 55.
+
+ExB:
+
+1. instrução 'e'.
+2. instrução 'c'.
+3. instruções 'c', 'd', e 'e'.
+
+ExC:
+
+1. verdadeiro
+2. verdadeiro
+3. verdadeiro
+4. verdadeiro
+5. falso
+
+ExD:
+
+Não, o endereço impresso não é o mesmo.
+
