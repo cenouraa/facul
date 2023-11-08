@@ -1,0 +1,9 @@
+6 - O valor printado de 's' é a soma dos números no intervalo 'b' e 'c' que são divisíveis por a.
+
+7 - Caso o quadrado da soma dos dois primeiros digitos mais o quadrado da soma dos dois últimos digitos for igual ao valor original. Caso o número obedeça a essa característica, é retornado o valor 1, senão, é retornado o valor 0;
+
+8 - A instrução mostrará o 'num' fornecido pelo usuário e o número de divisores que 'num' possui, desde que não seja igual a zero.
+
+1 - O valor resultante da instrução da linha 15 é a soma dos números divisíveis por a dentro do intervalo [b, c].
+
+3 - A instrução da linha 14 mostrará o número num fornecido pelo usuário e o número de divisores que num possui, desde que num seja diferente de zero.
