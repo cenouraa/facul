@@ -1,0 +1,25 @@
+exA.
+Letra C
+
+Quando você passa um vetor como parâmetro para uma função, está passando o endereço de memória do primeiro elemento desse vetor. Portanto, a função pode acessar e manipular os elementos do vetor diretamente na memória, sem a necessidade de copiá-los.
+
+exB.
+O valor final de y é 4, já que vai ser 1+3.
+
+exC.
+A primeira afirmação é verdadeira, já que eles estão apontado para o mesmo endereço na memória.
+A segunda afirmação é verdadeira, já que o nome do array é implicitamente convertido para o endereço do primeiro índice do array.
+A terceira afirmação é verdadeira, já que estamos utilizando o valor apontado pelo ponteiro para se mover pelo array, da mesma maneira que o convencional.
+
+exD.
+O erro é que o ponteiro p não foi devidamente inicializado antes de ser utilizado, ou seja, ele não está apontando para algum lugar em específico.
+
+exE.
+A diferença entre os ponteiros é o número de elementos entre o último e o primeiro elemento. No caso, o resultado será 9.
+
+exF.
+    pc1: 1000
+    pc2: 1000
+    pc3: 1004
+    pc4: 999
+
