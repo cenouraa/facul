@@ -1,0 +1,3 @@
+O selection sort não é estável, o que significa que a ordem relativa dos elementos iguais pode não ser preservada. Se houver elementos iguais no array, a troca entre eles ocorrerá apenas se um elemento for encontrado que seja estritamente menor do que o elemento atualmente considerado menor.
+
+No código fornecido, se houver elementos iguais no array v2, a ordem relativa entre eles pode ser alterada após a ordenação. Não há garantia de que o elemento que inicialmente ocupa a posição 2 continuará a vir antes do elemento que foi inserido na posição 3, porque o algoritmo simplesmente busca pelo menor elemento e o troca com o elemento na posição atual do loop exterior.

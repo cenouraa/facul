@@ -1,0 +1,7 @@
+Para v2:
+
+Na primeira iteração, fazemos 4 comparações (entre elementos adjacentes) e 2 trocas.
+Na segunda iteração, fazemos 3 comparações e 1 troca.
+Na terceira iteração, fazemos 2 comparações e 1 troca.
+Na quarta e última iteração, fazemos 1 comparação e não há trocas, pois o array já está ordenado.
+Portanto, para ordenar v2, são realizadas um total de 4 + 3 + 2 + 1 = 10 comparações e 2 + 1 + 1 = 4 trocas.

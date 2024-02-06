@@ -1,0 +1,5 @@
+A ordenação por seleção envolve encontrar o menor (ou maior) elemento e movê-lo para a posição correta, realizando um número fixo de comparações a cada iteração. O número de trocas depende da configuração do array. 
+
+A ordenação por flutuação (Bubble Sort) compara pares de elementos adjacentes e os troca se estiverem fora de ordem, fazendo com que os elementos "flutuem" para suas posições corretas. O número de comparações e trocas varia dependendo da configuração do array, mas no pior caso ambos são quadráticos.
+
+Em geral, a ordenação por seleção tende a ser mais eficiente em termos de trocas, especialmente quando as trocas são caras em termos de tempo, enquanto o Bubble Sort é simples e fácil de implementar, mas pode ser ineficiente para grandes conjuntos de dados devido ao seu desempenho quadrático.
